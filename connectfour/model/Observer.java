@@ -6,7 +6,6 @@ package connectfour.model;
  *
  * @param <Subject> the type of object an implementor of this interface
  *                is observing
- * @author James Heliotis @ RIT CS
  */
 public interface Observer< Subject > {
 
